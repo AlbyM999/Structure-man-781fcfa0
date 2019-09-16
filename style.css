@@ -1,0 +1,48 @@
+
+.tabletop_row td{
+	font-size: 20px;
+	position: static;
+	height: 20px;
+	width: 30px;
+	border: none;
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+
+}
+.leftrow{
+	position: static;
+	height: 20px;
+	width: 30px;
+	border: none;
+	background-color: #f5f5f5;
+	padding-left: 20px;
+}
+.table_filling td{
+	position: static;
+	height: 20px;
+	width: 30px;
+	border: none;
+	background-color: #666666;
+	padding: 20px;
+}
+.table_filling td:hover{
+	height: 50px;
+	width: 50px;
+	background-color: red;
+	padding: 20px;
+}
+body{
+	background-color: white;
+}
+.filling_str{
+	font-size: 24px;
+	color: white;
+	padding: 8px;
+}
+.filling_int{
+	font-size: 10px;
+	color: white;
+	padding: 8px;
+
+}
